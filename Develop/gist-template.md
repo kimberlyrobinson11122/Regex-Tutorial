@@ -5,7 +5,7 @@ Welcome, adventurer! Prepare to embark on a magical journey through the land of 
 
 Here's the enchanted incantation we'll be using: 
 
-^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
+    ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
 
 Prepare yourself for a bit of a journey! 
 
